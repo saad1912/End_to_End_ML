@@ -7,3 +7,11 @@ This is an end to end Machine Learning project.
 * Heroku Account
 * VS Code
 * GIT cli
+
+Creating conda environment
+'''
+conda create -p venv python=3.7 -y
+'''
+'''
+conda activate venv/
+'''
