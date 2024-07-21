@@ -10,7 +10,7 @@ This is an end to end Machine Learning project.
 
 ## Creating Conda Environment
 
-To create a new conda environment with Python 3.7, use the following command:
+To create a new conda environment with Python 3.7, I used the following command:
 
 ```sh
 conda create -p venv python=3.7 -y
@@ -18,3 +18,4 @@ conda create -p venv python=3.7 -y
 ```sh
 conda activate venv/
 ```
+
