@@ -8,10 +8,13 @@ This is an end to end Machine Learning project.
 * VS Code
 * GIT cli
 
-Creating conda environment
-'''
+## Creating Conda Environment
+
+To create a new conda environment with Python 3.7, use the following command:
+
+```sh
 conda create -p venv python=3.7 -y
-'''
-'''
+```
+```sh
 conda activate venv/
-'''
+```
